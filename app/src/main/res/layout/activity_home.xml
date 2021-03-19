@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/homepage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main2"
+    tools:context=".HomeActivity">
+
+    <ImageView
+        android:id="@+id/iv_dobackground"
+        android:layout_width="462dp"
+        android:layout_height="893dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="3dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/dologo" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/iv_dobackground"
+        app:srcCompat="@drawable/toplogo" />
+
+    <ImageView
+        android:id="@+id/iv_wanda"
+        android:layout_width="156dp"
+        android:layout_height="220dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="64dp"
+        android:onClick="wanda"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:srcCompat="@drawable/wandavision" />
+
+    <ImageView
+        android:id="@+id/iv_blackpanther"
+        android:layout_width="157dp"
+        android:layout_height="215dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="36dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.653"
+        app:layout_constraintStart_toEndOf="@+id/iv_wanda"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:srcCompat="@drawable/blackpanther" />
+
+    <ImageView
+        android:id="@+id/iv_civilwar"
+        android:layout_width="157dp"
+        android:layout_height="221dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_wanda"
+        app:srcCompat="@drawable/civilwaar" />
+
+    <ImageView
+        android:id="@+id/iv_ttoe"
+        android:layout_width="145dp"
+        android:layout_height="224dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.383"
+        app:layout_constraintStart_toEndOf="@+id/iv_civilwar"
+        app:layout_constraintTop_toBottomOf="@+id/iv_blackpanther"
+        app:srcCompat="@drawable/ttoe" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1059135718324",
+    "firebase_url": "https://idn-school-project-default-rtdb.firebaseio.com",
+    "project_id": "idn-school-project",
+    "storage_bucket": "idn-school-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059135718324:android:fd5398a70106ab6043a8e1",
+        "android_client_info": {
+          "package_name": "com.kirei.DayoffApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059135718324-ueqb0vg7aqgjddbpe2bkodp4edcmitmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirei.DayoffApp",
+            "certificate_hash": "9d779b9c54e1f7983bf613df5c49855f5c2d9882"
+          }
+        },
+        {
+          "client_id": "1059135718324-d7umen83nf89h4kb45c7v0n377cvcuu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImGLmV3o4s9gMQg3ZpHlrQ6d_aI1E4-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059135718324-d7umen83nf89h4kb45c7v0n377cvcuu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059135718324:android:7de941924cb4235d43a8e1",
+        "android_client_info": {
+          "package_name": "com.kirei.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059135718324-th75i17mdb8ofeifai0s0icv615dm6n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirei.authapp",
+            "certificate_hash": "9d779b9c54e1f7983bf613df5c49855f5c2d9882"
+          }
+        },
+        {
+          "client_id": "1059135718324-d7umen83nf89h4kb45c7v0n377cvcuu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImGLmV3o4s9gMQg3ZpHlrQ6d_aI1E4-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059135718324-d7umen83nf89h4kb45c7v0n377cvcuu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059135718324:android:ee1248ffd20e93dc43a8e1",
+        "android_client_info": {
+          "package_name": "com.kirei.nestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059135718324-g23aabrtl1g880c1c6udllin2mrdamka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kirei.nestapp",
+            "certificate_hash": "9d779b9c54e1f7983bf613df5c49855f5c2d9882"
+          }
+        },
+        {
+          "client_id": "1059135718324-d7umen83nf89h4kb45c7v0n377cvcuu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBImGLmV3o4s9gMQg3ZpHlrQ6d_aI1E4-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059135718324-d7umen83nf89h4kb45c7v0n377cvcuu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
